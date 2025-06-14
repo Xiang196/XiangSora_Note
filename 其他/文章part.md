@@ -1,0 +1,7 @@
+**Para.1: The next morning, Clara uploaded a new video.**  
+She didn’t add filters or flashy transitions—just the soft creak of the door, sunlight glinting on fresh wood shavings, and Grandpa’s steady hands guiding a chisel. His sketches flicked past the lens, some dated half a century ago. The camera paused on a photo: a boy, gap-toothed and proud, holding a spoon. Then the screen faded to Grandpa sanding a chair leg, the order book resting open but blank beside him. “Machines make things fast,” a comment read, “but hands remember stories.” As the video quietly gained attention, one comment caught Clara’s eye: _“That spoon… I still remember shaping it.”_
+
+---
+
+**Para.2: A week later, Timmy, now a famous furniture designer, walked in the workshop.**  
+The scent of sawdust hit him like memory. His gaze swept across the bench, the worn tools, the yellowed calendar. “You still use the same compass?” he smiled. Grandpa looked up, eyes brightening. “Some things don't need replacing.” Timmy ran his fingers along the spoon Grandpa handed him. “This curve shaped my career,” he murmured. As they spoke, Clara quietly filmed their reunion—the soft laugh, the silent understanding between hands that had built so much. Before leaving, Timmy opened the order book and wrote: _One commission. Handcrafted staircase. Let the story continue._ The page, once blank, now held promise.

@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:高中化学笔记  ",
+      "color": {
+        "a": 1,
+        "rgb": 10633968
+      }
+    },
+    {
+      "query": "path:高中物理笔记  ",
+      "color": {
+        "a": 1,
+        "rgb": 4053990
+      }
+    },
+    {
+      "query": "path:高中技术笔记  ",
+      "color": {
+        "a": 1,
+        "rgb": 12902242
+      }
+    },
+    {
+      "query": "file:home",
+      "color": {
+        "a": 1,
+        "rgb": 15401132
+      }
+    },
+    {
+      "query": "path:高中数学笔记  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:高中英语笔记  ",
+      "color": {
+        "a": 1,
+        "rgb": 15445028
+      }
+    },
+    {
+      "query": "path:高中语文笔记  ",
+      "color": {
+        "a": 1,
+        "rgb": 6021202
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.666666666666667,
+  "repelStrength": 10.3125,
+  "linkStrength": 0.1875,
+  "linkDistance": 500,
+  "scale": 0.40757237105596367,
+  "close": false
+}

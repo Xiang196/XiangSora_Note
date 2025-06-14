@@ -1,0 +1,15 @@
+{
+  "theme": "obsidian",
+  "accentColor": "",
+  "cssTheme": "Things",
+  "interfaceFontFamily": "",
+  "nativeMenus": false,
+  "showViewHeader": true,
+  "baseFontSizeAction": true,
+  "baseFontSize": 15,
+  "enabledCssSnippets": [
+    "Custom_Math_Font",
+    "custom-math-font"
+  ],
+  "showRibbon": true
+}

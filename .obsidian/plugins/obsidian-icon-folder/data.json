@@ -1,0 +1,45 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasE",
+      "LiHome",
+      "LiMagnet",
+      "LiCode2",
+      "RiFunctions"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "高中化学笔记": "LiAtom",
+  "高中化学笔记/化学一轮复习 摘录.md": "LiZap",
+  "高中语文笔记": "LiBook",
+  "高中数学笔记": "RiFunctions",
+  "高中技术笔记": "LiCode2",
+  "高中物理笔记": "LiMagnet",
+  "Home.md": "LiHome",
+  "高中英语笔记": "FasE"
+}
