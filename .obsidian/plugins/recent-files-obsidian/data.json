@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "自动提交脚本测试",
+      "path": "自动提交脚本测试.md"
+    },
+    {
       "basename": "【必下】谏逐客书",
       "path": "高中语文笔记/课内文言文/【必下】谏逐客书.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "【素材】Phantom of the night",
       "path": "高中英语笔记/【素材】Phantom of the night.md"
-    },
-    {
-      "basename": "Pasted image 20250609160447",
-      "path": "图片素材/Pasted image 20250609160447.png"
     }
   ],
   "omittedPaths": [],
