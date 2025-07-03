@@ -4,7 +4,7 @@
   "maxLevel": 2,
   "styleLevel1": "1",
   "styleLevelOther": "1",
-  "auto": true,
+  "auto": false,
   "separator": ".",
   "contents": "",
   "skipHeadings": "",

@@ -6,7 +6,7 @@
   "nativeMenus": false,
   "showViewHeader": true,
   "baseFontSizeAction": true,
-  "baseFontSize": 15,
+  "baseFontSize": 13,
   "enabledCssSnippets": [
     "Custom_Math_Font",
     "custom-math-font"

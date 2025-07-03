@@ -22,8 +22,65 @@
               "icon": "lucide-file",
               "title": "Home"
             }
+          },
+          {
+            "id": "25a4ad1dbcaa92d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "高中语文笔记/课内文言文/【必下】10. 答司马谏议书.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "【必下】10. 答司马谏议书"
+            }
+          },
+          {
+            "id": "c90728377bca286d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "高中语文笔记/课内文言文/【必下】12. 六国论.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "【必下】12. 六国论"
+            }
+          },
+          {
+            "id": "b09df78f7f48324f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "高中语文笔记/红楼梦速通.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "红楼梦速通"
+            }
+          },
+          {
+            "id": "611ace8117289511",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "高中语文笔记/必修上下易错字词整理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "必修上下易错字词整理"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -106,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/Home.md",
+                "file": "高中语文笔记/必修上下易错字词整理.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +173,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Home 的反向链接列表"
+              "title": "必修上下易错字词整理 的反向链接列表"
             }
           },
           {
@@ -125,12 +182,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "其他/Home.md",
+                "file": "高中语文笔记/必修上下易错字词整理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Home 的出链列表"
+              "title": "必修上下易错字词整理 的出链列表"
             }
           },
           {
@@ -154,17 +211,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/Home.md",
+                "file": "高中语文笔记/必修上下易错字词整理.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Home 的大纲"
+              "title": "必修上下易错字词整理 的大纲"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -184,43 +241,43 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "611ace8117289511",
   "lastOpenFiles": [
-    "高中语文笔记/课内文言文/【必下】1. 子路、曾皙、冉有、公西华侍坐.md",
-    "高中语文笔记/必修上下易错字词整理.md",
     "其他/Home.md",
+    "高中语文笔记/课内文言文/【必下】10. 答司马谏议书.md",
+    "高中语文笔记/红楼梦速通.md",
+    "高中语文笔记/非文学性文本阅读.md",
+    "高中语文笔记/必修上下文常速通.md",
+    "高中语文笔记/必修上下文言现象合集.md",
+    "高中语文笔记/必修上下易错字词整理.md",
+    "高中语文笔记/课内文言文/【必下】12. 六国论.md",
+    "高中语文笔记/课内文言文/【必下】11. 阿房宫赋.md",
+    "高中语文笔记/课内文言文/【必下】9. 谏太宗十思疏.md",
+    "高中语文笔记/课内文言文/【必下】8. 促织.md",
+    "高中语文笔记/课内文言文/【必下】6. 谏逐客书.md",
+    "高中语文笔记/课内文言文/【必下】7. 与妻书.md",
+    "高中语文笔记/课内文言文/【必下】4. 烛之武退秦师.md",
+    "高中语文笔记/课内文言文/【必下】5. 鸿门宴.md",
+    "高中语文笔记/课内文言文/【必下】3. 庖丁解牛.md",
+    "高中语文笔记/课内文言文/【必下】2. 齐桓晋文之事.md",
+    "高中语文笔记/课内文言文/【必下】1. 子路、曾皙、冉有、公西华侍坐.md",
+    "高中语文笔记/课内文言文/【必上】4. 登泰山记.md",
+    "高中语文笔记/课内文言文/【必上】3. 赤壁赋.md",
+    "高中语文笔记/课内文言文/【必上】2. 师说.md",
     "高中语文笔记/课内文言文/【必上】1. 劝学.md",
+    "高中语文笔记/课内文言文/【选上】《论语》十二章.md",
+    "高中语文笔记/卷子中的文言文实词积累.md",
     "未命名看板.md",
     "未命名.canvas",
     "2025-07-03.md",
-    "高中语文笔记/课内文言文/【必上】2. 师说.md",
-    "高中数学笔记/导数构函.md",
     "高中数学笔记/数学随笔/fb55e474c0d24d9c8ec94f1e7872bb81_720.jpg",
     "高中数学笔记/数学随笔/fcdf56bab91a89bc574fb3aa7af758ce_720.jpg",
-    "高中数学笔记/数学随笔/数学随笔【扫描版】.md",
     "高中数学笔记/数学随笔/7e3cd424e328afd94c2b61bc0362d33b_720.jpg",
     "高中数学笔记/数学随笔/3fc46452bd575dfdeb5c8f851aa0dec0_720.jpg",
     "高中数学笔记/数学随笔/2f83386b2944978f569a9ae3c2b58072_720.jpg",
     "高中数学笔记/数学随笔/2a66224b15cacf1b61d7244e053a5109_720.jpg",
     "高中数学笔记/数学随笔/2a55eea66921599a78ecd9931e8dcd6f_720.jpg",
-    "高中数学笔记/高中数学的解题技术.md",
-    "高中数学笔记/三角函数解题技术.md",
-    "高中数学笔记/立体几何解题技术.md",
-    "高中物理笔记/物理选修一复习笔记.md",
-    "高中物理笔记/物理选修二复习笔记.md",
-    "高中物理笔记/物理必修二复习笔记.md",
-    "高中物理笔记/物理必修一复习笔记.md",
-    "高中物理笔记/物理必修三复习笔记.md",
-    "高中语文笔记/红楼梦速通.md",
-    "README.md",
-    "高中英语笔记/【导引】英语作文导引.md",
-    "高中英语笔记/【续写】陌路暖驰 - 2024新课标I卷.md",
-    "高中英语笔记/【续写】槌声化冰 - 高二下期末考试续写.md",
     "图片素材/20250702.png",
-    "高中英语笔记/【词汇】主题词汇积累.md",
-    "数学竞赛笔记/一些数学定理.md",
-    "高中语文笔记/课内文言文/【选上】《论语》十二章.md",
-    "高中语文笔记/课内文言文/【必下】11. 阿房宫赋.md",
     "高中数学笔记/数学随笔/ae5f9f9483263e2f2814690078f42db7_720.jpg",
     "高中数学笔记/数学随笔",
     "高中数学笔记/数学随笔/504521c58d860a6d5afcbfb333b24d75_720.jpg",
