@@ -24,63 +24,68 @@
             }
           },
           {
-            "id": "25a4ad1dbcaa92d6",
+            "id": "a6d015f76c2048ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高中语文笔记/课内文言文/【必下】10. 答司马谏议书.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "【必下】10. 答司马谏议书"
-            }
-          },
-          {
-            "id": "c90728377bca286d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "高中语文笔记/课内文言文/【必下】12. 六国论.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "【必下】12. 六国论"
-            }
-          },
-          {
-            "id": "b09df78f7f48324f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "高中语文笔记/红楼梦速通.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "红楼梦速通"
-            }
-          },
-          {
-            "id": "611ace8117289511",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "高中语文笔记/必修上下易错字词整理.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "必修上下易错字词整理"
+              "title": "未命名"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
+      },
+      {
+        "id": "e3a708410d4c6d1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "230daf06fcbd35d0",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://bilibili.com"
+              },
+              "icon": "lucide-file",
+              "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili"
+            }
+          },
+          {
+            "id": "7583d9c1f20048ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "高中英语笔记/【词汇】主题词汇积累.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "【词汇】主题词汇积累"
+            }
+          },
+          {
+            "id": "2dee3aeb4cbfad1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "高中英语笔记/【词汇】主题词汇积累.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "【词汇】主题词汇积累"
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -147,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7bdacd7df765a71d",
@@ -211,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高中语文笔记/必修上下易错字词整理.md",
+                "file": "高中英语笔记/【词汇】主题词汇积累.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "必修上下易错字词整理 的大纲"
+              "title": "【词汇】主题词汇积累 的大纲"
             }
           }
         ],
@@ -225,7 +231,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,15 +248,19 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "611ace8117289511",
+  "active": "2dee3aeb4cbfad1c",
   "lastOpenFiles": [
+    "高中英语笔记/【词汇】主题词汇积累.md",
+    "未命名.md",
+    "高中英语笔记/【词汇】超级词汇.md",
+    "高中英语笔记/【词汇】3500词 - 停更.md",
     "其他/Home.md",
+    "高中语文笔记/必修上下易错字词整理.md",
     "高中语文笔记/课内文言文/【必下】10. 答司马谏议书.md",
     "高中语文笔记/红楼梦速通.md",
     "高中语文笔记/非文学性文本阅读.md",
     "高中语文笔记/必修上下文常速通.md",
     "高中语文笔记/必修上下文言现象合集.md",
-    "高中语文笔记/必修上下易错字词整理.md",
     "高中语文笔记/课内文言文/【必下】12. 六国论.md",
     "高中语文笔记/课内文言文/【必下】11. 阿房宫赋.md",
     "高中语文笔记/课内文言文/【必下】9. 谏太宗十思疏.md",
@@ -265,11 +276,7 @@
     "高中语文笔记/课内文言文/【必上】3. 赤壁赋.md",
     "高中语文笔记/课内文言文/【必上】2. 师说.md",
     "高中语文笔记/课内文言文/【必上】1. 劝学.md",
-    "高中语文笔记/课内文言文/【选上】《论语》十二章.md",
-    "高中语文笔记/卷子中的文言文实词积累.md",
-    "未命名看板.md",
     "未命名.canvas",
-    "2025-07-03.md",
     "高中数学笔记/数学随笔/fb55e474c0d24d9c8ec94f1e7872bb81_720.jpg",
     "高中数学笔记/数学随笔/fcdf56bab91a89bc574fb3aa7af758ce_720.jpg",
     "高中数学笔记/数学随笔/7e3cd424e328afd94c2b61bc0362d33b_720.jpg",
