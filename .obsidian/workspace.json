@@ -6,7 +6,6 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
-        "dimension": 81.3161875945537,
         "children": [
           {
             "id": "e7a7b303c61786dc",
@@ -30,74 +29,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高中物理笔记/物理选修一复习笔记.md",
+                "file": "高中英语笔记/【词汇】主题词汇积累.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "物理选修一复习笔记"
+              "title": "【词汇】主题词汇积累"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "46219b9cc030bc5d",
-        "type": "tabs",
-        "dimension": 18.683812405446293,
-        "children": [
-          {
-            "id": "db3ae16dfc5a1325",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "其他/Home.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "83e3001052483942",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://www.bing.com/search?q=豆包"
-              },
-              "icon": "lucide-file",
-              "title": "豆包 - 搜索"
-            }
-          },
-          {
-            "id": "4db156a7a72bc1aa",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://www.doubao.com/chat/11388678010587138"
-              },
-              "icon": "lucide-file",
-              "title": "解释海市蜃楼和沙漠蜃景成因 - 豆包"
-            }
-          },
-          {
-            "id": "099726e227fe49dd",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://search.bilibili.com/all?vt=37455424&keyword=%E8%B7%B3%E8%B7%B3%E5%AD%A6%E9%95%BF&from_source=webtop_search&spm_id_from=333.1007&search_source=3"
-              },
-              "icon": "lucide-file",
-              "title": "跳跳学长-哔哩哔哩_bilibili"
-            }
-          }
-        ],
-        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -259,18 +200,18 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "099726e227fe49dd",
+  "active": "e2610674c1185c67",
   "lastOpenFiles": [
-    "高中物理笔记/物理选修一复习笔记.md",
-    "Pasted image 20250708103759.png",
-    "Pasted image 20250708094548.png",
-    "Pasted image 20250708094447.png",
-    "Pasted image 20250708094006.png",
-    "Pasted image 20250708093708.png",
-    "高中物理笔记/物理选修三复习笔记.md",
-    "其他/Home.md",
     "高中英语笔记/【词汇】主题词汇积累.md",
+    "图片素材/Pasted image 20250708093708.png",
     "未命名.md",
+    "其他/Home.md",
+    "高中物理笔记/物理选修一复习笔记.md",
+    "图片素材/Pasted image 20250708103759.png",
+    "图片素材/Pasted image 20250708094548.png",
+    "图片素材/Pasted image 20250708094447.png",
+    "图片素材/Pasted image 20250708094006.png",
+    "高中物理笔记/物理选修三复习笔记.md",
     "高中英语笔记/【词汇】超级词汇.md",
     "高中英语笔记/【词汇】3500词 - 停更.md",
     "高中语文笔记/必修上下易错字词整理.md",
