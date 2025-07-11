@@ -1,16 +1,80 @@
 {
   "recentFiles": [
     {
-      "basename": "【词汇】主题词汇积累",
-      "path": "高中英语笔记/【词汇】主题词汇积累.md"
+      "basename": "Translate to Chinese",
+      "path": "copilot-custom-prompts/Translate to Chinese.md"
     },
     {
-      "basename": "Pasted image 20250708093708",
-      "path": "图片素材/Pasted image 20250708093708.png"
+      "basename": "Summarize",
+      "path": "copilot-custom-prompts/Summarize.md"
+    },
+    {
+      "basename": "Simplify",
+      "path": "copilot-custom-prompts/Simplify.md"
+    },
+    {
+      "basename": "Rewrite as tweet thread",
+      "path": "copilot-custom-prompts/Rewrite as tweet thread.md"
+    },
+    {
+      "basename": "Rewrite as tweet",
+      "path": "copilot-custom-prompts/Rewrite as tweet.md"
+    },
+    {
+      "basename": "Remove URLs",
+      "path": "copilot-custom-prompts/Remove URLs.md"
+    },
+    {
+      "basename": "Generate table of contents",
+      "path": "copilot-custom-prompts/Generate table of contents.md"
+    },
+    {
+      "basename": "Generate glossary",
+      "path": "copilot-custom-prompts/Generate glossary.md"
+    },
+    {
+      "basename": "Fix grammar and spelling",
+      "path": "copilot-custom-prompts/Fix grammar and spelling.md"
+    },
+    {
+      "basename": "Explain like I am 5",
+      "path": "copilot-custom-prompts/Explain like I am 5.md"
+    },
+    {
+      "basename": "Emojify",
+      "path": "copilot-custom-prompts/Emojify.md"
     },
     {
       "basename": "Home",
       "path": "其他/Home.md"
+    },
+    {
+      "basename": "【词汇】主题词汇积累",
+      "path": "高中英语笔记/【词汇】主题词汇积累.md"
+    },
+    {
+      "basename": "【语法】英语语法笔记",
+      "path": "高中英语笔记/【语法】英语语法笔记.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "面白的东西/未命名.md"
+    },
+    {
+      "basename": "【词汇】超级词汇讲解",
+      "path": "高中英语笔记/【词汇】超级词汇讲解.md"
+    },
+    {
+      "basename": "【词汇】超级词汇",
+      "path": "高中英语笔记/【词汇】超级词汇.md"
+    },
+    {
+      "basename": "word_test",
+      "path": "word_test.md"
+    },
+    {
+      "basename": "Pasted image 20250708093708",
+      "path": "图片素材/Pasted image 20250708093708.png"
     },
     {
       "basename": "物理选修一复习笔记",
@@ -19,10 +83,6 @@
     {
       "basename": "物理选修三复习笔记",
       "path": "高中物理笔记/物理选修三复习笔记.md"
-    },
-    {
-      "basename": "【词汇】超级词汇",
-      "path": "高中英语笔记/【词汇】超级词汇.md"
     },
     {
       "basename": "【词汇】3500词 - 停更",
@@ -139,66 +199,6 @@
     {
       "basename": "7e3cd424e328afd94c2b61bc0362d33b_720",
       "path": "高中数学笔记/数学随笔/7e3cd424e328afd94c2b61bc0362d33b_720.jpg"
-    },
-    {
-      "basename": "3fc46452bd575dfdeb5c8f851aa0dec0_720",
-      "path": "高中数学笔记/数学随笔/3fc46452bd575dfdeb5c8f851aa0dec0_720.jpg"
-    },
-    {
-      "basename": "2f83386b2944978f569a9ae3c2b58072_720",
-      "path": "高中数学笔记/数学随笔/2f83386b2944978f569a9ae3c2b58072_720.jpg"
-    },
-    {
-      "basename": "2a66224b15cacf1b61d7244e053a5109_720",
-      "path": "高中数学笔记/数学随笔/2a66224b15cacf1b61d7244e053a5109_720.jpg"
-    },
-    {
-      "basename": "2a55eea66921599a78ecd9931e8dcd6f_720",
-      "path": "高中数学笔记/数学随笔/2a55eea66921599a78ecd9931e8dcd6f_720.jpg"
-    },
-    {
-      "basename": "高中数学的解题技术",
-      "path": "高中数学笔记/高中数学的解题技术.md"
-    },
-    {
-      "basename": "三角函数解题技术",
-      "path": "高中数学笔记/三角函数解题技术.md"
-    },
-    {
-      "basename": "立体几何解题技术",
-      "path": "高中数学笔记/立体几何解题技术.md"
-    },
-    {
-      "basename": "物理选修二复习笔记",
-      "path": "高中物理笔记/物理选修二复习笔记.md"
-    },
-    {
-      "basename": "物理必修二复习笔记",
-      "path": "高中物理笔记/物理必修二复习笔记.md"
-    },
-    {
-      "basename": "物理必修一复习笔记",
-      "path": "高中物理笔记/物理必修一复习笔记.md"
-    },
-    {
-      "basename": "物理必修三复习笔记",
-      "path": "高中物理笔记/物理必修三复习笔记.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "【导引】英语作文导引",
-      "path": "高中英语笔记/【导引】英语作文导引.md"
-    },
-    {
-      "basename": "【续写】陌路暖驰 - 2024新课标I卷",
-      "path": "高中英语笔记/【续写】陌路暖驰 - 2024新课标I卷.md"
-    },
-    {
-      "basename": "【续写】槌声化冰 - 高二下期末考试续写",
-      "path": "高中英语笔记/【续写】槌声化冰 - 高二下期末考试续写.md"
     }
   ],
   "omittedPaths": [],
