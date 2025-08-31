@@ -547,3 +547,164 @@ The anger, loneliness, and **grief** the medium felt at being **shattered**.
 宿体因自身被摧毁而感受到的愤怒、孤独与悲痛。
 - grief n. 悲痛；忧伤（深切的悲伤情绪 ）
 - shatter v. 粉碎；摧毁（使事物破碎、瓦解，此处表 “遭遇破灭” ）
+
+| 单词 / 词组                            | 中文释义                                                |
+| ---------------------------------- | --------------------------------------------------- |
+| enamored                           | adj. 倾心于；迷恋；爱慕                                      |
+| be enamored (of/with...)           | 迷恋……；倾心于……                                          |
+| frilly                             | adj. 镶褶边的；有褶边装饰的                                    |
+| anachronistic                      | adj. 时代错误的；不合时代的                                    |
+| gist                               | n. 要点；主旨；大意                                         |
+| get the gist of...                 | 理解…… 的要点                                            |
+| incognito                          | adv. & adj. 隐姓埋名地（的）；化名地（的）                         |
+| go incognito                       | 隐姓埋名；微服出行                                           |
+| rampaged                           | v. 横冲直撞；肆虐                                          |
+| tumultuous                         | adj. 动荡的；混乱喧闹的                                      |
+| seduce                             | v. 引诱；勾引；诱使                                         |
+| ensorcell                          | v. 施魔法于；使着迷；蛊惑                                      |
+| be ensorcelled by...               | 被…… 蛊惑；被…… 迷住                                       |
+| meager                             | adj. 不足的；贫乏的；少量的                                    |
+| superstitious                      | adj. 迷信的；笃信的                                        |
+| gremlin                            | n. 调皮捣蛋的人；小精灵；小妖精                                   |
+| raffle                             | n. 抽奖；抽彩售货（或分配）活动                                   |
+| luster                             | n. 光泽；光彩；光泽度                                        |
+| pry                                | v. 撬开；撬动；费力得到                                       |
+| pry out                            | 撬出                                                  |
+| scam                               | n. 欺诈；骗局；诈骗                                         |
+| stern                              | adj. 严厉的；严肃的；苛刻的                                    |
+| charade                            | n. 装模作样；做戏；骗人的把戏                                    |
+| hilt                               | n. （刀、剑等的）柄                                         |
+| hilarious                          | adj. 极其滑稽的；令人捧腹的                                    |
+| deduction                          | n. 推理；演绎；推论                                         |
+| prank                              | n. & v. 玩笑；恶作剧                                      |
+| lapse                              | v. 陷入（某种状态）                                         |
+| lapse into...                      | 陷入……                                                |
+| ingrained                          | adj. 根深蒂固的                                          |
+| feign                              | v. 假装；佯装                                            |
+| composure                          | n. 镇定，从容                                            |
+| aloof                              | adj. 冷漠的；冷淡的；疏远的                                    |
+| intruder                           | n. 闯入者；侵入者                                          |
+| ordeal                             | n. 折磨；煎熬；痛苦的经历                                      |
+| hallucinate                        | v. 产生幻觉；出现幻觉                                        |
+| rendezvous                         | n. 约会；会面；集合地点（这里作名词，指约定碰面的地点）                       |
+| hypocritical                       | adj. 虚伪的；伪善的                                        |
+| dwindle                            | v. 逐渐减少；变小                                          |
+| game trail                         | n. 猎物踪迹；狩猎小径（这里指供狩猎追踪等用的小径）                         |
+| reflex                             | n. 本能反应；反射作用（这里指下意识的本能反应）                           |
+| treacherous                        | adj. 危险的；暗藏危险的；奸诈的（此处指道路危险难行）                       |
+| assail                             | v. 攻击；使苦恼；纠缠（这里指被某种感觉 “侵袭、困扰”）                      |
+| lance                              | v. （像长矛般）快速穿过；猛刺（此处指疼痛如长矛穿刺般袭来）                     |
+| aghast                             | adj. 惊骇的；吓呆的                                        |
+| be aghast (at/by...)               | 因…… 而惊骇                                             |
+| taint                              | n. 污染；玷污；败坏的影响                                      |
+| sludge                             | n. 烂泥；淤泥；泥浆                                         |
+| potency                            | n. 效力；力量；影响力                                        |
+| exorcism                           | n. 驱魔仪式；驱邪                                          |
+| antsy                              | adj. 烦躁的；坐立不安的                                      |
+| fanfare                            | n. 喧闹的欢迎；大肆宣扬                                       |
+| wrath                              | n. 愤怒；盛怒；震怒                                         |
+| casualties                         | n. （事故、战争等的）伤亡人员；受害者                                |
+| reverence                          | n. 崇敬；敬意；敬畏                                         |
+| reinforce                          | v. 加强；强化；巩固                                         |
+| afflict                            | v. 使痛苦；使苦恼；折磨                                       |
+| salvation                          | n. 拯救；救助；救赎                                         |
+| relinquish                         | v. 放弃；舍弃；松手                                         |
+| obscure                            | v. 使模糊；使隐晦；使难理解                                     |
+| deprecating                        | adj. 自嘲的；贬低的；轻视的                                    |
+| volition                           | n. 意志；意愿；自愿                                         |
+| clad                               | adj. 穿衣的；覆盖的；被…… 覆盖的                                |
+| aura                               | n. 气氛；氛围；光环                                         |
+| imbued                             | v. 使充满；使渗透；使饱含                                      |
+| ferocious                          | adj. 凶猛的；残暴的；猛烈的                                    |
+| infantile                          | adj. 幼稚的；孩子气的；婴儿的                                   |
+| grudge                             | n. 怨恨；积怨                                            |
+| resentment                         | n. 愤恨；不满                                            |
+| protracted                         | adj. 持续很久的；长期的                                      |
+| rampant                            | adj. 猖獗的；泛滥的                                        |
+| run rampant                        | 肆虐；猖獗                                               |
+| rain on everyone's parade          | 扫大家的兴；破坏别人的兴致                                       |
+| adrenaline                         | n. 肾上腺素                                             |
+| adrenaline rush                    | 肾上腺素激增；兴奋感                                          |
+| excessive                          | adj. 过分的；过度的；过多的                                    |
+| swanky                             | adj. 豪华的；时髦的；气派的                                    |
+| scrub                              | v. 用力擦洗；刷洗                                          |
+| contemplate                        | v. 沉思；深思；考虑                                         |
+| narcissist                         | n. 自我陶醉者；自恋者                                        |
+| prestigious                        | adj. 有声望的；声誉高的                                      |
+| sprain                             | n. 扭伤                                               |
+| conceited                          | adj. 自负的；自高自大的                                      |
+| palpable                           | adj. 明显的；可察觉的；易感知的                                  |
+| ominous                            | adj. 不祥的；不吉利的                                       |
+| slack                              | v. 懈怠；怠惰；偷懒                                         |
+| queasy                             | adj. 感到恶心的；想呕吐的；心绪不宁的                               |
+| spartan                            | adj. 艰苦的；简朴的；严格的                                    |
+| regimen                            | n. 养生法；训练制度                                         |
+| fidget                             | v. 坐立不安；烦躁地动                                        |
+| jolt                               | n. 震动；一阵剧痛                                          |
+| thigh                              | n. 大腿                                               |
+| blister                            | n. 水疱                                               |
+| sole                               | n. 脚底；鞋底                                            |
+| metric                             | n. 衡量标准                                             |
+| distraught                         | adj. 心烦意乱的；苦恼的                                      |
+| scarce                             | adj. 躲开；溜走                                          |
+| make oneself scarce                | 避而不见；躲开                                             |
+| engross                            | v. 使全神贯注；使专注                                        |
+| furtive                            | adj. 偷偷的；暗中的；鬼鬼祟祟的                                  |
+| surreptitiously                    | adv. 偷偷地；暗中地                                        |
+| feint                              | n. 佯攻；虚晃；假动作                                        |
+| make feints                        | 做出佯攻（动作）                                            |
+| lethargic                          | adj. 无精打采的；慵懒的；没精打采的                                |
+| fluke                              | n. 侥幸成功；偶然发生的事                                      |
+| pulverize                          | v. 粉碎；碾碎；捣烂                                         |
+| flinch                             | v. 退缩；畏缩；畏避                                         |
+| squat                              | v. 蹲下；蹲坐                                            |
+| extremity                          | n. 肢体末端（如手、脚）                                       |
+| unfazed                            | adj. 不为所动的；镇定的                                      |
+| translucent                        | adj. 半透明的                                           |
+| prickly                            | adj. 刺痒的；扎人的                                        |
+| bereft                             | adj. 缺乏的；没有的                                        |
+| bereft of                          | 缺乏……；没有……                                           |
+| admonish                           | v. 斥责；告诫                                            |
+| admonish sb. for (doing) sth.      | 因（做）某事斥责某人                                          |
+| water under the bridge             | （习语）过去的事；不必再提的事                                     |
+| let sth. be water under the bridge | 让某事成为过往（不再计较）                                       |
+| rich                               | adj. （口语，反讽）可笑的；讽刺的                                 |
+| That's rich coming from you.       | 你说这话可真够讽刺的（暗指对方言行不一）                                |
+| perchance                          | adv. 或许；可能；偶然                                       |
+| litany                             | n. 冗长的列举；一连串（常指重复出现的内容）                             |
+| slang                              | n. 俚语（非正式的口语表达）                                     |
+| ensue                              | v. 接踵而至；继而发生                                        |
+| prophetic                          | adj. 预言的；预示的（含 “能预见未来” 意味）                          |
+| palanquin                          | n. （旧时的）轿子；肩舆（由人抬行的交通工具）                            |
+| solemn                             | adj. 严肃的；神情庄重的                                      |
+| groggily                           | adv. 昏昏沉沉地；睡眼惺忪地（形容刚睡醒时的状态）                         |
+| impromptu                          | adj. 临时的；即兴的                                        |
+| frugal                             | adj. 节俭的；节省的                                        |
+| frivolous                          | adj. 轻率的；荒唐的；无关紧要的（形容理由 / 行为缺乏严肃性）                  |
+| skewer                             | v. 串起；扎住（用尖锐物贯穿物体）                                  |
+| scrutinize                         | v. 仔细审视；端详                                          |
+| excursion                          | n. 短途旅行；远足                                          |
+| bubbly                             | adj. （人）活泼欢快的；兴高采烈的（也可形容液体 “起泡的”，如 bubbly wine 起泡酒） |
+| inexplicably                       | adv. 无法解释地；莫名其妙地（强调 “不知为何” 的状态）                     |
+| palpitation                        | n. 心悸（指心脏跳动异常，如过快、过强等生理表现）                          |
+| fathom                             | v. 理解；弄清楚（常用于否定句，表 “难以看透 / 理解”）                     |
+| premonition                        | n. 预感；预兆（常指对未来事件的直觉，尤其隐含 “不祥预感”）                    |
+| gouge                              | n. （深深的）划痕；凿痕（强调痕迹深且长，多由刮擦、撞击造成）                    |
+| lash                               | v. 猛抽；猛击（强调动作的突然性与力度，类似鞭子甩打的动态）                     |
+| expunge                            | v. 清除；彻底消除（常指去除抽象事物，如力量、记忆、记录等）                     |
+| preoccupied                        | adj. 全神贯注的；心思专注于… 的                                 |
+| be preoccupied with                | 因某事分心 / 专注，无暇顾及其他                                   |
+| quell                              | v. 平息；镇压（情绪、冲突等）                                    |
+| wrath                              | n. 愤怒；怒火（强烈且常含报复性的愤怒，较正式）                           |
+| quizzically                        | adv. 疑惑地；好奇地（神情含探究、不解意味）                            |
+| lid                                | n. 盖子（容器、盒箱等的顶盖）                                    |
+| tinge                              | v. 使略带（情感、色彩等）；n. 淡淡痕迹 / 色彩                         |
+| be tinged with...                  | 带有…… 的淡淡意味（情感、色调等）                                  |
+| attune                             | v. 使适应；使熟悉                                          |
+| grow attuned to...                 | 渐渐适应 / 熟悉……                                         |
+| mutation                           | n. 变异；突变（生物或事物的意外、异常变化）                             |
+| preemptively                       | adv. 预先地；抢先地（提前采取行动，早于预期时机）                         |
+| malice                             | n. 恶意；怨恨（蓄意的伤害、憎恶情绪）                                |
+| invoke                             | v. 唤起；引发（通过仪式、力量等召唤 / 激起事物，如诅咒、力量）                  |
+| grief                              | n. 悲痛；忧伤（深切的悲伤情绪）                                   |
+| shatter                            | v. 粉碎；摧毁（使事物破碎、瓦解，此处表 “遭遇破灭”）                       |
