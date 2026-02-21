@@ -1,0 +1,92 @@
+- Howeve, it has lost the chance for a *debut*.
+- In a mix of rain and *sleet*, I returned home for the first time in a while.
+- *mandarin* 橘子
+- Since the day I was accepted, a *vinyl* bracelet was always wrapped around my wrist.
+- In the pure white, sun-lit room, it dryly *reverberated*.
+- However, from what the girl said, that was a *facade*.
+- *... This place is where ordinary and extraordinary days met.*
+- peer around
+- As the *chassis* rattled from the unfamiliar clutch, slowly it went on.
+- In a short while, I spotted a *coin-operated laundromat*.
+- Just pass the automatic doors, my nose picked up the scent of *bleach* and *detergent*.
+- However, *paying no heed to* that, I threw them into the back seat.
+- One by one, they would grow too big to stick, a number would gather, overflow, and turn into a rivulet.
+- Gently going around the curve traced by a cape... under the burning sunlight, dashing to the brilliant white beach.
+- Hollowly, I accumulated only *yearning*.
+- From the ground, the still damp *asphalt* gave a unique "Shaa!" noise.
+- As always, the girl looked far away with a downcast air at where the black sky and sea merged at the horizon.
+- That digital display was counting up *ferociously*.
+- After a while, scouting from the *aisles*...
+- I *wound up* dropping the entire box on the floor.
+- Maybe because I had driven up onto a curb or something, just that moment, I wound up *ramming the rear*.
+- Looking at it, the rear bumping was slightly dented, and the *muffler's tip* was a bit cracked.
+- You think... there's been a big *uproar*?
+- Dancing in the darkening sky, lightly floating *specks* of white. It seemed that depending on circumstances, it might snow harder.
+- However, maybe because she was embarrassed, even when she finally faced this way, she had on a *sulking* expression.
+- Nosily, the boyfriend started adding more requests, and looking closer, the guy's girlfriend was also giving us *exasperated* looks.
+- "Look, you need to *disengage* the clutch more quietly."
+- When the sunset had changed into the night sky, and the *faltering* sea breeze completely changed to being a land breeze.
+- Not only coupes, but sedans, even convertibles... she should be able to drive anything that she liked.
+- *The morning dew caught the morning sun, further enhancing the bright whiteness of the prominent flowers. One could believe that it was a carpet that stretched to the sea.*
+- The *nymph* Echo was also those one of those who loved him.
+- "Wounds... The deeper they are, it seems that they require a *proportionate* amount of time to heal... If so, if one had taken a long time slowly letting them go, is it too late to recover?"
+- Perhaps her first, and last, act of *defiance*...
+- *Waves gathered and retreated. Long hair fluttered in the cold sea breeze.*
+- The strong wind turned the *crests* of the wave into spray that struck her.
+- ... A high ceiling, windows that only open 15cm. Here, it was a white, well-lit, *sterile* place.
+- I felt the *nuance* behind those words, "And so young... what a shame."
+- "But figures, without a *winch* it's really hard! Ahaha!"
+- "Look here, this *homemade hoist* - isn't it great?"
+- The 7th floor... that is, the hospital's *hospice*.
+- Hospice. Generally know as the "*palliative* care ward."
+- Even the *phoenix palms* planted by the beach houses, each and every one was tall-- it felt like visiting southern lands.
+- She was always *decked out in frills*, but waht shows through occasionally was Yuka's true personality.
+- "All this time, you've been driving just wherever *whim* took you?"
+- Around when the sun that had been so high was *hazing* over and everything that could be seen was dyed orange...
+- "And stop with the books for *obsessed maniacs*, okay? Taking them to the register was embarrassing."
+- "Hey, you're the one that's visiting, don't *gobble* it all up!"
+- "A Christmas present, I tried knitting a *muffler*."
+- And Mother, who had started going to that part-time job, often brought back *croquettes* and fries for me saying they were leftovers.
+- The strong sunlight made the playground seem white, and the heat made the ground look *wavy*.
+- I noticed that the button that held the handle was *fraying off*.
+- "Though assigned for someone else"... that "someone else" *nagged* at me.
+- The might also be because she's of the 7th floor, but to have that word said in a cherry voice was *jarring*.
+- No one who made a strained face like mine from a single *somersault*...
+- Instead of those details, whether there was a specialization in surgery, or whether there was a famous *internist* present; from those, a hospital would be chosen.
+- Opening the window, even in such *stuffy* heat the night breeze felt nice.
+- Speaking *unilaterally* and then leaving her little sister there, Himeko-san quickly walked ahead.
+- Before, while beautifully painted with *manicures*, Mother would proudly show them to me and father with pride.
+- At that figure, happily excited over such a small thing, Father and I would look at each other and give a *wry* smile.
+- "Well, since we've come all the way to the station, let's make a *detour*."
+- The day time has been so hot and *hazy*, but now in the huge sky, the face of the moon *peaked out*.
+- Mixed with the crashing of waves, the quick sound of pull *tabs* rang out.
+- I hesitated in even uttering those words. Somehow, I sensed that it shouldn't *intrude*.
+- The clear red wine seemed overlaid with the beautiful color of the moonlight's blue. The two of us *waded* into the sea to our ankles, and took up our glasses.
+- Beside that, no matter where Himeko-san was in her pajamas, she was *dignified*.
+- Peaceful... was that the word? Tho polar opposite of glaring *gaudiness* might have felt like this.
+- *"May the bountiful blessings and the grace of the Lord be upon you."*
+- *"The wilderness and the dry land shall be glad, the desert shall rejoice and blossom."*
+- *"... like the crocus it shall blossom abundantly and rejoice with joy and singing."*
+- I shook my hand. I didn't really know, but it was probably from some kind of *scripture*.
+- In reality, she probably wasn't going that fast, but maybe because there was no roof, even the slightest *swerve* was extremely scary.
+- Her *voluminous* hair left an impression.
+- But, this 7th floor was different, because everyone was aware of their *imminent* death, *mingling* between patients was almost unthinkable.
+- It was a 60-yen pouch of soda ice. With an *exaggerated flourish*, I took out the content to show her.
+- As we spoke about that, we ate. In the flower bed before our eyes, *pansies* and *gerberas* bloomed proudly.
+- Of course, I didn't know them all, but reading the things related in a way to the *gospel* was my intention.
+- That day, when it will come, is unknown. So we're hounded by that limit time.
+- If this act were to be called evil... then all of us, I suppose, would be evil people. ... Going along with the lie would probably mean I was a *accomplice*.
+- But I was neither a *paster*, nor of the *clergy*, just one of the faithful.
+- So, it wasn't anything extravagant like a *sacrament*, it was nothing more than a simple prayer.
+- And so like this, in her *stead*, I came to Chihiro-san.
+- When I left the church, it was like a *deluge* of cicada cries.
+- *The sun right overhead dropped sharp, black, short shadows during the peak of the heat.*
+- So naturally, very *matter-of-factly*, Mother offered them, seeming very pleased.
+- To be precise, it was probably a *consecrated* place for the worship of God.
+- *A light engine noise was raised as familiar scenery went by, drowning out the voices of the cicadas as it continued on.*
+- The roadster continued on, its red *hood* reflecting the blazing sky.
+- *Peering down* the edge of the cliff, it was dark and hard to see. The bottom of the *ravine* was far enough that you couldn't guess its height.
+- "... Finally, we're getting *revved* up here aren't we?"
+- *Little by little, the sky whitened the place... In this place where it seemed you could touch the sky, she quietly hung her head.*
+- *Facing the high summer sky that stretched out forever, she offered a prayer to the God who was probably out there.*
+- *The blue-purple dawn sky grew white, and changed to a sunrise. The wind that began to blow from the valley made a lonely sound.*
